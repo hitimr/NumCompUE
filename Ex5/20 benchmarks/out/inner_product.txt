@@ -1,0 +1,73 @@
+
+
+ Performance counter stats for 'python3 innerProduct_pythonLoops.py':
+
+     4.071.650.582      instructions                                                
+            880,46 msec cpu-clock                 #   11,925 CPUs utilized          
+
+       0,073834002 seconds time elapsed
+
+       0,222176000 seconds user
+       0,658594000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_numpy.py':
+
+     3.826.742.365      instructions                                                
+            803,43 msec cpu-clock                 #   11,366 CPUs utilized          
+
+       0,070684276 seconds time elapsed
+
+       0,146851000 seconds user
+       0,656750000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_pythonLoops.py':
+
+     4.453.806.121      instructions                                                
+            953,53 msec cpu-clock                 #   11,944 CPUs utilized          
+
+       0,079835460 seconds time elapsed
+
+       0,255719000 seconds user
+       0,698155000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_numpy.py':
+
+     3.373.917.605      instructions                                                
+            747,65 msec cpu-clock                 #   11,099 CPUs utilized          
+
+       0,067362348 seconds time elapsed
+
+       0,176671000 seconds user
+       0,571100000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_pythonLoops.py':
+
+     4.713.952.885      instructions                                                
+          1.016,69 msec cpu-clock                 #   11,161 CPUs utilized          
+
+       0,091090638 seconds time elapsed
+
+       0,270351000 seconds user
+       0,746493000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_numpy.py':
+
+     4.129.417.147      instructions                                                
+            869,15 msec cpu-clock                 #   11,378 CPUs utilized          
+
+       0,076390290 seconds time elapsed
+
+       0,240816000 seconds user
+       0,628573000 seconds sys
+
+

@@ -1,0 +1,76 @@
+
+n=100
+
+ Performance counter stats for 'python3 matrixVector_pythonLoops.py':
+
+     5.202.888.995      instructions                                                
+          1.098,35 msec cpu-clock                 #   12,369 CPUs utilized          
+
+       0,088798151 seconds time elapsed
+
+       0,266700000 seconds user
+       0,831945000 seconds sys
+
+
+
+ Performance counter stats for 'python3 matrixVector_numpy.py':
+
+     3.763.339.756      instructions                                                
+            820,39 msec cpu-clock                 #   11,526 CPUs utilized          
+
+       0,071179296 seconds time elapsed
+
+       0,193349000 seconds user
+       0,627399000 seconds sys
+
+
+n=200
+
+ Performance counter stats for 'python3 matrixVector_pythonLoops.py':
+
+     5.505.052.004      instructions                                                
+          1.128,51 msec cpu-clock                 #    8,976 CPUs utilized          
+
+       0,125720927 seconds time elapsed
+
+       0,329714000 seconds user
+       0,799073000 seconds sys
+
+
+
+ Performance counter stats for 'python3 matrixVector_numpy.py':
+
+     5.735.354.920      instructions                                                
+          1.224,28 msec cpu-clock                 #   11,345 CPUs utilized          
+
+       0,107911767 seconds time elapsed
+
+       0,391356000 seconds user
+       0,833210000 seconds sys
+
+
+n=300
+
+ Performance counter stats for 'python3 matrixVector_pythonLoops.py':
+
+     5.667.039.080      instructions                                                
+          1.091,31 msec cpu-clock                 #    5,516 CPUs utilized          
+
+       0,197859631 seconds time elapsed
+
+       0,358625000 seconds user
+       0,732842000 seconds sys
+
+
+
+ Performance counter stats for 'python3 matrixVector_numpy.py':
+
+     5.660.427.906      instructions                                                
+          1.149,27 msec cpu-clock                 #    8,868 CPUs utilized          
+
+       0,129600752 seconds time elapsed
+
+       0,322043000 seconds user
+       0,827529000 seconds sys
+
+

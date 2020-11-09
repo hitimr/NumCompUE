@@ -1,0 +1,79 @@
+
+python3: can't open file 'matrixmatrix_pythonLoops.py': [Errno 2] No such file or directory
+
+ Performance counter stats for 'python3 matrixmatrix_pythonLoops.py':
+
+        37.597.001      instructions                                                
+              7,97 msec cpu-clock                 #    0,987 CPUs utilized          
+
+       0,008070346 seconds time elapsed
+
+       0,008073000 seconds user
+       0,000000000 seconds sys
+
+
+python3: can't open file 'matrixmatrix_numpy.py': [Errno 2] No such file or directory
+
+ Performance counter stats for 'python3 matrixmatrix_numpy.py':
+
+        37.623.583      instructions                                                
+              9,37 msec cpu-clock                 #    0,977 CPUs utilized          
+
+       0,009581706 seconds time elapsed
+
+       0,009599000 seconds user
+       0,000000000 seconds sys
+
+
+python3: can't open file 'matrixmatrix_pythonLoops.py': [Errno 2] No such file or directory
+
+ Performance counter stats for 'python3 matrixmatrix_pythonLoops.py':
+
+        37.565.267      instructions                                                
+              6,65 msec cpu-clock                 #    0,984 CPUs utilized          
+
+       0,006763551 seconds time elapsed
+
+       0,006765000 seconds user
+       0,000000000 seconds sys
+
+
+python3: can't open file 'matrixmatrix_numpy.py': [Errno 2] No such file or directory
+
+ Performance counter stats for 'python3 matrixmatrix_numpy.py':
+
+        37.595.180      instructions                                                
+             12,18 msec cpu-clock                 #    0,957 CPUs utilized          
+
+       0,012722920 seconds time elapsed
+
+       0,006270000 seconds user
+       0,006270000 seconds sys
+
+
+python3: can't open file 'matrixmatrix_pythonLoops.py': [Errno 2] No such file or directory
+
+ Performance counter stats for 'python3 matrixmatrix_pythonLoops.py':
+
+        37.612.056      instructions                                                
+              6,72 msec cpu-clock                 #    0,984 CPUs utilized          
+
+       0,006822920 seconds time elapsed
+
+       0,006825000 seconds user
+       0,000000000 seconds sys
+
+
+python3: can't open file 'matrixmatrix_numpy.py': [Errno 2] No such file or directory
+
+ Performance counter stats for 'python3 matrixmatrix_numpy.py':
+
+        37.519.200      instructions                                                
+             11,39 msec cpu-clock                 #    0,982 CPUs utilized          
+
+       0,011601504 seconds time elapsed
+
+       0,007743000 seconds user
+       0,003871000 seconds sys
+
+

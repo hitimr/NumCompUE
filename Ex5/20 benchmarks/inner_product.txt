@@ -1,0 +1,76 @@
+
+n=100
+
+ Performance counter stats for 'python3 innerProduct_pythonLoops.py':
+
+     3.309.234.689      instructions                                                
+            726,55 msec cpu-clock                 #   10,845 CPUs utilized          
+
+       0,066996354 seconds time elapsed
+
+       0,144567000 seconds user
+       0,582287000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_numpy.py':
+
+     4.071.741.006      instructions                                                
+            866,75 msec cpu-clock                 #   12,422 CPUs utilized          
+
+       0,069772513 seconds time elapsed
+
+       0,207671000 seconds user
+       0,658956000 seconds sys
+
+
+n=200
+
+ Performance counter stats for 'python3 innerProduct_pythonLoops.py':
+
+     4.024.398.721      instructions                                                
+            874,50 msec cpu-clock                 #   11,288 CPUs utilized          
+
+       0,077470483 seconds time elapsed
+
+       0,238199000 seconds user
+       0,636501000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_numpy.py':
+
+     3.727.327.923      instructions                                                
+            818,15 msec cpu-clock                 #   12,110 CPUs utilized          
+
+       0,067562349 seconds time elapsed
+
+       0,223572000 seconds user
+       0,594788000 seconds sys
+
+
+n=300
+
+ Performance counter stats for 'python3 innerProduct_pythonLoops.py':
+
+     4.746.240.157      instructions                                                
+            988,68 msec cpu-clock                 #   11,326 CPUs utilized          
+
+       0,087291418 seconds time elapsed
+
+       0,262418000 seconds user
+       0,726698000 seconds sys
+
+
+
+ Performance counter stats for 'python3 innerProduct_numpy.py':
+
+     4.306.948.977      instructions                                                
+            916,71 msec cpu-clock                 #   12,429 CPUs utilized          
+
+       0,073756166 seconds time elapsed
+
+       0,238332000 seconds user
+       0,678640000 seconds sys
+
+
